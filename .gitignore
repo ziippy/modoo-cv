@@ -8,3 +8,4 @@ venv
 */venv/*
 *.h5
 checkpoints/*
+checkpoint/*
