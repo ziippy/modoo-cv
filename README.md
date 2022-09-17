@@ -19,3 +19,5 @@ AIFFEL - 모두의 CV
 8. Class Activation Map Implementation  
 - CAM 구현
 
+10~11.Object Detection
+- 1-Stage Detector, 2-Stage Detector
