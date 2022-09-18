@@ -21,3 +21,6 @@ AIFFEL - 모두의 CV
 
 10~11.Object Detection
 - 1-Stage Detector, 2-Stage Detector
+
+13~15 Segmentation
+- introduction, model, unet
