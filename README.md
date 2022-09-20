@@ -24,3 +24,12 @@ AIFFEL - 모두의 CV
 
 13~15 Segmentation
 - introduction, model, unet
+
+16~17 OCR
+- introduction, implementation
+
+19~20 Detection
+- YOLO, SSD, Face Detection
+
+22~23 Pose Estimation
+- introduction, implementation
